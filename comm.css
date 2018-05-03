@@ -1,3 +1,6 @@
-.fire1{color:#F00;}
-.fire2{color:#F33;}
-.fire3{color:#F66;}
+.fire1{color:#FF3300;}
+.fire2{color:#FF6633;}
+.fire3{color:#FF9966;}
+	a{margin-right:15px;}
+.footer {position:absolute;bottom: 0;width: 90%;height: 30px;clear:both;}
+body{font-family:Helvetica;}
